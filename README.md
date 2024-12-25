@@ -1,5 +1,5 @@
 ## ***LeetCode Solutions Repository***
-M Leetcode Journey
+My Leetcode Journey
 
 ## 👋 About Me
 Welcome to my LeetCode repository! Here I will be documenting my algorithmic challenges, mainly by LeetCode. This repository forms a part of my practice toward becoming a proficient software engineer and acing any technical interviews.
